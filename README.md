@@ -1,4 +1,4 @@
-# Francisco Pinto Moreira Neto—@frapimoneto
+# Francisco Pinto Moreira Neto - @frapimoneto
 
 [![Linkedin Badge](https://img.shields.io/badge/-francisco--pinto-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-pinto-moreira-neto-1b194619b/)](https://www.linkedin.com/in/francisco-pinto-moreira-neto-1b194619b/)
 
@@ -7,7 +7,7 @@ Sou estudante do curso de Engenharia da Computação na Universidade do Estado d
 
 # :hammer: Tecnologias:
 
--React </br>
--Node </br>
--React Native </br>
--Flutter </br>
+- React </br>
+- Node </br>
+- React Native </br>
+- Flutter </br>
