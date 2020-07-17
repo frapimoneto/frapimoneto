@@ -5,7 +5,7 @@
 Sou estudante do curso de Engenharia da Computação na Universidade do Estado de Minas Gerais (UEMG) e estudante do bootcamp GoStack na rocketseat. Sou desenvolvedor fullstack com as tecnologias React, Node e React Native.❤🚀
 
 
-# Tecnologias:
+# :hammer: Tecnologias:
 
 -React </br>
 -Node </br>
