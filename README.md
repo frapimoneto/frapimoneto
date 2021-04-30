@@ -11,3 +11,4 @@ Sou engenheiro da computação pela Universidade do Estado de Minas Gerais. Tamb
 - Node </br>
 - React Native </br>
 - Flutter </br>
+- Swift </br>
